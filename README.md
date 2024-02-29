@@ -15,6 +15,8 @@ The SCIN Dataset is released under [SCIN Data Use License](LICENSE)
 ## Research Paper
 
 To learn more about the dataset and methods, please see our paper [Crowdsourcing Dermatology Images with Google Search Ads: Creating a Real-World Skin Condition Dataset](https://arxiv.org/abs/2402.18545), in collaboration with physicians at Stanford Medicine.
+
+```
 @misc{ward2024crowdsourcing,
       title={Crowdsourcing Dermatology Images with Google Search Ads: Creating a Real-World Skin Condition Dataset},
       author={Abbi Ward and Jimmy Li and Julie Wang and Sriram Lakshminarasimhan and Ashley Carrick and Bilson Campana and Jay Hartford and Pradeep Kumar S and Tiya Tiyasirichokchai and Sunny Virmani and Renee Wong and Yossi Matias and Greg S. Corrado and Dale R. Webster and Dawn Siegel and Steven Lin and Justin Ko and Alan Karthikesalingam and Christopher Semturs and Pooja Rao},
@@ -23,6 +25,7 @@ To learn more about the dataset and methods, please see our paper [Crowdsourcing
       archivePrefix={arXiv},
       primaryClass={cs.CY}
 }
+```
 
 ## Contact
 
