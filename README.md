@@ -4,7 +4,7 @@ The SCIN (Skin Condition Image Network) open access dataset aims to supplement p
 
 The SCIN dataset contains 5,000+ volunteer contributions (10,000+ images) of common dermatology conditions. Contributions include Images, self-reported demographic, history, and symptom information, and self-reported Fitzpatrick skin type (sFST). In addition, dermatologist labels of the skin condition and estimated Fitzpatrick skin type (eFST) and layperson estimated Monk Skin tone (eMST) labels are provided for each contribution.
 
-The data is stored in the [dx-scin-public-data bucket on Google Cloud Storage](https://console.cloud.google.com/storage/browser/dx-scin-public-data). Check out the [`scin_demo.ipynb`](scin_demo.ipynb) notebook for a quick review of how to access the dataset.
+The data is stored in the [dx-scin-public-data bucket on Google Cloud Storage](https://console.cloud.google.com/storage/browser/dx-scin-public-data). Check out the [`scin_demo.ipynb`](scin_demo.ipynb) notebook for a quick review of how to access the dataset and the [Dataset Documentation](dataset_schema.md) for an overview of its schema.
 
 Please note: This dataset contains images of medical conditions, some of which may be sensitive and/or graphic in nature.
 
