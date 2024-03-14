@@ -19,6 +19,10 @@ Known issues:
 
 The SCIN Dataset is released under [SCIN Data Use License](LICENSE)
 
+## DOI
+
+[![DOI](https://zenodo.org/badge/760881983.svg)](https://zenodo.org/doi/10.5281/zenodo.10819503)
+
 ## Research Paper
 
 To learn more about the dataset and methods, please see our paper [Crowdsourcing Dermatology Images with Google Search Ads: Creating a Real-World Skin Condition Dataset](https://arxiv.org/abs/2402.18545), in collaboration with physicians at Stanford Medicine.
