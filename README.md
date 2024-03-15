@@ -42,4 +42,3 @@ To learn more about the dataset and methods, please see our paper [Crowdsourcing
 
 To contact the team, please use this [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdTSw-Vz1TcTv42_REzDIa28p9-xSbpvc3AttASqC0pzZdvOA/viewform).
 
-
