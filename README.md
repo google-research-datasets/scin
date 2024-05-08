@@ -14,6 +14,7 @@ Known issues:
 * There are 48 cases where the case is marked as gradable but no skin condition
   label is present. This happens for cases where they were marked as ungradable
   due to multiple conditions present.
+* [Issue #1](https://github.com/google-research-datasets/scin/issues/1): 1 image file is missing
 
 ## License
 
